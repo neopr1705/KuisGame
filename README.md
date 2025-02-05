@@ -1,4 +1,4 @@
-# Proyek Game Kuis Mobile (Edukatif)
+# Proyek Game Kuis Mobile TrashMaster (Edukatif)
 
 ## Ringkasan Struktur Modular
 
